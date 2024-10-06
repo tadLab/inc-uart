@@ -1,7 +1,4 @@
 
-Projekt (UART příjmač) z predmětu Návrh číslicových systémů (INC), druhý semestr bakalářskeho studia BIT na FIT VUT/BUT, ak.rok 2024/2025
+Projekt (UART přijímač) z předmětu Návrh číslicových systémů (INC), druhý semestr bakalářského studia BIT na FIT VUT/BUT, akademický rok 2024/2025.
 
-⚠️ Zverejnené pro archívní účely — nekopírujte, nula by Vás mrzela. Za nic také nenesu žádnou zodpovědnost!
-Hodnocení: 13 / 18
-
-Zadanie: WIKI / PDF
+⚠️ Zveřejněno pro archivní účely — nekopírujte, nula by Vás mrzela. Za nic také nenesu žádnou zodpovědnost! Hodnocení: 13 / 18
